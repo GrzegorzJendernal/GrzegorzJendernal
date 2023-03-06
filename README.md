@@ -6,8 +6,6 @@ My name is Grzegorz, I am a Frontend Developer. I love using React😍, so I wou
 - [My Personal Homepage](https://grzegorzjendernal.github.io/personal-homepage/)
 -  [My LinkedIN profile](https://www.linkedin.com/in/grzegorzjendernal/)
 
-### 🔭 I’m currently working on [Movie Browser](https://github.com/KaniewskiSoftware/movie-browser).
-
 ### 🌱 I’m currently learning TypeScript.
 <!--
 **GrzegorzJendernal/GrzegorzJendernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
